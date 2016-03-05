@@ -8,7 +8,7 @@ int main()
 	scanf("%i%i%i%i%i", &i, &j, &k, &a, &b);
 
 	printf("%i\n", i+j+k+a+b/average);
-	
+	printf("Entered a trivial change\n");	
 
 
 
