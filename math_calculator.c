@@ -1,4 +1,9 @@
-//This is the line causing issue in the master branch
+<<<<<<< HEAD
+
+=======
+//This is line causing issue in the conflict branch
+>>>>>>> conflict
+//This is the second line causing issue in the master branch
 #include <stdio.h>
 int main()
 {
